@@ -1,0 +1,17 @@
+@page "/demo"
+@namespace FamilyDiagram.Pages
+@using Blazor.Diagrams.Components
+
+<div class="diagram-container">
+    <CascadingValue Value="Diagram" IsFixed="true">
+        <DiagramCanvas></DiagramCanvas>
+    </CascadingValue>
+</div>
+<style>
+    .diagram-container {
+        width: 100%;
+        height: 1000px;
+        border: 1px solid black;
+        /* Just visual */
+    }
+</style>

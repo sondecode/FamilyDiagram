@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/obj/Debug/net8.0/compressed/d5u49ju2dw.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/obj/Debug/net8.0/scopedcss/bundle/FamilyDiagram.styles.css",
+      "PackagePath": "staticwebassets/FamilyDiagram.styles.css"
+    },
+    {
+      "Id": "/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FamilyDiagram.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.FamilyDiagram.props",
+      "PackagePath": "build\\FamilyDiagram.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FamilyDiagram.props",
+      "PackagePath": "buildMultiTargeting\\FamilyDiagram.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FamilyDiagram.props",
+      "PackagePath": "buildTransitive\\FamilyDiagram.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
