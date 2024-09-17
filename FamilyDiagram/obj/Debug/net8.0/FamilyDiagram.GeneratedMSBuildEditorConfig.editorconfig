@@ -13,43 +13,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = FamilyDiagram
 build_property.RootNamespace = FamilyDiagram
-build_property.ProjectDir = /Users/gager981/Projects/FamilyDiagram/FamilyDiagram/
+build_property.ProjectDir = D:\Projects\Son\FamilyDiagram\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/gager981/Projects/FamilyDiagram/FamilyDiagram
+build_property.MSBuildProjectDirectory = D:\Projects\Son\FamilyDiagram
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/App.razor]
+[D:/Projects/Son/FamilyDiagram/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[D:/Projects/Son/FamilyDiagram/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+[D:/Projects/Son/FamilyDiagram/Pages/DiagramWidgets/InvisibleNodeWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlhZ3JhbVdpZGdldHNcSW52aXNpYmxlTm9kZVdpZGdldC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/Pages/MyDiagram.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXlEaWFncmFtLnJhem9y
+[D:/Projects/Son/FamilyDiagram/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
+[D:/Projects/Son/FamilyDiagram/Pages/MyDiagram.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlEaWFncmFtLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/_Imports.razor]
+[D:/Projects/Son/FamilyDiagram/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Son/FamilyDiagram/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-e51i1kud46
+[D:/Projects/Son/FamilyDiagram/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-h8m6p7sfec
 
-[/Users/gager981/Projects/FamilyDiagram/FamilyDiagram/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-97z3xcbwg0
+[D:/Projects/Son/FamilyDiagram/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-qvnwxil3b6

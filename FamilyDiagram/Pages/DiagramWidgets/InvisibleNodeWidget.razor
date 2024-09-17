@@ -1,0 +1,16 @@
+﻿@using Blazor.Diagrams.Components.Renderers;
+
+<div style="color: white; width: 0">
+    .
+    @foreach (var port in Node.Ports)
+    {
+        // In case you have any ports to show
+        // IMPORTANT: You are always in charge of rendering ports
+        <PortRenderer @key="port" Port="port" />
+    }
+</div>
+
+@code {
+    // This gets filled by the library
+    [Parameter] public InvisibleNode Node { get; set; } = null!;
+}
