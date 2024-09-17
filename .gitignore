@@ -3,5 +3,5 @@
 ################################################################################
 
 /.vs
-/FamilyDiagram/obj/
-/FamilyDiagram/bin/
+FamilyDiagram/obj/
+FamilyDiagram/bin/
